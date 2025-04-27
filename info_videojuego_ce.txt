@@ -1,0 +1,38 @@
+Información del Videojuego "Las Aventuras de Ce"
+
+Datos del Videojuego:
+----------------------
+Nombre del Videojuego: Las Aventuras de Ce
+Descripción:Un divertido y dinámico videojuego educativo diseñado para ayudar a los niños de cuarto grado a aprender y practicar palabras que contienen la letra "Ce". A lo largo de la aventura, los jugadores enfrentarán diferentes desafíos interactivos distribuidos en tres niveles, cada uno con su propia actividad única.
+En cada nivel, el jugador deberá primero conseguir una llave que le permitirá desbloquear la actividad de enseñanza correspondiente. Estas actividades están basadas  para reforzar de forma lúdica y significativa el correcto uso de palabras con "Ce", combinando el aprendizaje con la emoción de los juegos.
+
+Género: Educativo
+
+Mecánicas Principales:El videojuego cuenta con tres niveles, cada uno con una actividad educativa distinta enfocada en palabras con la letra "Ce". Antes de acceder a cada actividad, el jugador debe encontrar una llave oculta en el escenario para desbloquearla.
+Lluvia de Palabras: Atrapar palabras que contienen "Ce" mientras caen.
+
+Completa la Palabra: Elegir la sílaba correcta para completar palabras incompletas.
+
+Selección Múltiple: Seleccionar todas las palabras que contienen "Ce" de un listado.
+
+Cada actividad permite practicar de forma interactiva y divertida el uso correcto de palabras con "Ce".
+
+Objetivos de Aprendizaje:Promover el aprendizaje significativo de palabras que contienen la sílaba 'Ce' en estudiantes de cuarto grado, mediante la participación en retos interactivos que fomenten la atención, la agilidad mental y el uso adecuado del vocabulario en un entorno digital lúdico.
+
+Personajes: El protagonista principal es un pequeño niño aventurero llamado “Ce” que tiene como motivación resolver los problemas de las ortografías sobre el uso de la letra “C”
+
+Tecnologías Utilizadas:Unity 
+
+Equipo de Desarrollo:Grupo Matrix 
+
+Datos del Repositorio del Proyecto:
+-----------------------------------
+URL el Repositorio en GitHub:https://github.com/lis-creator/Las-Aventuras-de-Ce
+
+Descripción del Repositorio:Este repositorio está destinado al desarrollo de un videojuego educativo para niños de cuarto grado, diseñado para ayudarles a aprender y practicar palabras que contienen la sílaba "Ce". Actualmente, el proyecto se encuentra en sus primeras etapas, donde estamos trabajando en la creación de las escenas del juego y en la documentación necesaria para estructurar su desarrollo. El código se irá añadiendo progresivamente conforme avanzamos en la implementación de las mecánicas y funcionalidades del videojuego.
+Ramas Principales y su Propósito:
+  - main: Rama principal con la versión actual del proyecto.
+  - feature-menu-principal: Desarrollo de la interfaz del menú principal.
+  - desarrollo-logicascene-juego: Implementación de la lógica fundamental del juego en las scenas.
+Número Total de Commits (aproximado): 
+Fecha de Creación del Repositorio:27-04-2025
