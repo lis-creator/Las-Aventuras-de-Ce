@@ -1,0 +1,30 @@
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
+
+# Ignorar base de datos local
+*.db
+
+# Ignorar configuraciones de usuario y entorno
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar variables de entorno
+.env
+
+# Otros archivos de respaldo
+*.bak
+*.old
