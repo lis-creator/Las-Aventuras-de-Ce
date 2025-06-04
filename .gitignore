@@ -1,0 +1,21 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuraciones de usuario
+.vs/
+*.user
+*.suo
+
+# Archivos generados por Visual Studio Code
+.vscode/
+
+# Sitio de documentación generado
+_site/
+
+# Otros
+*.DS_Store
