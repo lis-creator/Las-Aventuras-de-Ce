@@ -1,6 +1,6 @@
 # 🎮✨ Las Aventuras de Ce ✨🎮
 
-Un **videojuego educativo** en **C#** que transforma la ortografía en una experiencia divertida ⚔️. Diseñado para reforzar el uso correcto de la letra **C** en  lluvia de palabras, complete,pensado especialmente para estudiantes de primaria 📚👦👧.
+Un **videojuego educativo** en **C#** que transforma la ortografía en una experiencia divertida ⚔️. Diseñado para reforzar el uso correcto de la letra **C** en  Selección multiple, complete, unica, pensado especialmente para estudiantes de primaria 📚👦👧.
 
 ---
 
@@ -42,8 +42,24 @@ Contiene tres botones principales:
 
 **Botón Play:** inicia el juego y lleva a la pantalla de selección de niveles.  
 
--------------
+-------------  
 
-## 📁📑 Estructura del Proyecto
+## 📱 Plataformas Disponibles
 
+- 📱 **Android**
+- 💻 **Windows**
+  ------------
+  
+# 📚 Documentación
 
+La documentación técnica del proyecto fue generada con **Doxygen** y está disponible en la carpeta `DocumentaciónDoxygen`.  
+------------  
+## 👩‍💻 Autores
+
+- 👩‍🎨 **Sara castillo**
+      **cesar Lopéz**
+    ** Jeremias Galeano**
+ Matrix – Diseño y desarrollo.
+- 👨‍💻 **Freddy palacios.**
+
+📢 **Nota:** Proyecto académico con fines educativos.
