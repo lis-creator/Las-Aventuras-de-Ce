@@ -47,6 +47,7 @@ Contiene tres botones principales:
 ## 📱 Plataformas Disponibles
 
 - 📱 **Android**
+  
 - 💻 **Windows**
   ------------
   
