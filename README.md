@@ -6,7 +6,8 @@ Un **videojuego educativo** en **C#** que transforma la ortografía en una exper
 
 ## 📖💡 Descripción del Proyecto
 
-🌟 **Las Aventuras de Ce** es un juego interactivo donde los jugadores superan retos ortográficos a través de niveles llenos de dinamismo, aprendiendo de forma natural y entretenida. Creado como proyecto final para la asignatura  de**Lengua y Literatura**, este juego fusiona educación con entretenimiento digital 🎮📚.
+🌟 Este es un juego interactivo y didáctico diseñado para reforzar el aprendizaje de la letra **C**a través de una aventura divertida con niveles de dificultad progresiva. El jugador deberá evitar obstáculos, recolectar objetos y enfrentarse a enemigos mientras recorre distintos mapas.
+ 🎮📚.
 
 ---
 
@@ -27,6 +28,21 @@ Un **videojuego educativo** en **C#** que transforma la ortografía en una exper
 - 🎮 **Motor de videojuego** Unity
 
 ---
+
+
+🕹 **Pantallas y Funcionalidades:**
+
+🏠 **Pantalla de Inicio**
+
+Contiene tres botones principales:
+
+**Botón de Salida:** cierra el juego.
+
+**Botón de Muteo/Desmuteo de Música:** permite al jugador activar o desactivar la música de fondo.
+
+**Botón Play:** inicia el juego y lleva a la pantalla de selección de niveles.  
+
+-------------
 
 ## 📁📑 Estructura del Proyecto
 
