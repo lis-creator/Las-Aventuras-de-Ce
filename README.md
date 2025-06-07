@@ -50,15 +50,15 @@ Contiene tres botones principales:
 - 💻 **Windows**
   ------------
   
-# 📚 Documentación
+**📚 Documentación**
 
-La documentación técnica del proyecto fue generada con **Doxygen** y está disponible en la carpeta `DocumentaciónDoxygen`.  
-------------  
+La documentación técnica del proyecto fue generada con **Doxygen** y está disponible en la carpeta `DocumentaciónDoxygen`.    
+------------   
 ## 👩‍💻 Autores
 
 - 👩‍🎨 **Sara castillo**  
-        **cesar Lopéz**  
-        **Jeremias Galeano**  
+             **cesar Lopéz**  
+             **Jeremias Galeano**  
  Matrix – Diseño y desarrollo.  
 - 👨‍💻 **Freddy palacios.**
 
