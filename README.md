@@ -57,8 +57,8 @@ La documentación técnica del proyecto fue generada con **Doxygen** y está dis
 ## 👩‍💻 Autores
 
 - 👩‍🎨 **Sara castillo**  
-      **cesar Lopéz**  
-    **Jeremias Galeano**  
+        **cesar Lopéz**  
+        **Jeremias Galeano**  
  Matrix – Diseño y desarrollo.  
 - 👨‍💻 **Freddy palacios.**
 
