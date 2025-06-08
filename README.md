@@ -85,7 +85,7 @@ El juego cuenta con **3 niveles**, cada uno con una mecánica distinta:
 - 💻 **Windows**
   ------------
   
-**📚 Documentación**
+**📚 Documentación**  
 
 La documentación técnica del proyecto fue generada con **Doxygen** y está disponible en la carpeta **DocumentaciónDoxygen**.    
 ------------   
