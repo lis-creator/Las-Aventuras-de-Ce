@@ -30,17 +30,52 @@ Un **videojuego educativo** en **C#** que transforma la ortografía en una exper
 ---
 
 
-🕹 **Pantallas y Funcionalidades:**
+## 📱 Pantallas y Funcionalidades
 
-🏠 **Pantalla de Inicio**
+### 🏠 Pantalla de Inicio
 
-Contiene tres botones principales:
+- **Botón Play:** Inicia el juego y lleva al jugador a la pantalla de selección de niveles.
+- **Botón de Muteo/Desmuteo de Música:** Permite al jugador activar o desactivar la música de fondo en cualquier momento.
 
-**Botón de Salida:** cierra el juego.
+---
 
-**Botón de Muteo/Desmuteo de Música:** permite al jugador activar o desactivar la música de fondo.
+### 🎮 Pantalla de Selección de Niveles
 
-**Botón Play:** inicia el juego y lleva a la pantalla de selección de niveles.  
+El juego cuenta con **3 niveles**, cada uno con una mecánica distinta:
+
+1. **Nivel 1: "Bosque de las Opciones" 🌳**  
+   - Actividad: **preguntas de opción múltiple** sobre el uso correcto de la letra **C**.
+   - Música retro animada de fondo.
+   - Retroalimentación inmediata al seleccionar la respuesta correcta o incorrecta.
+
+2. **Nivel 2: "Completa la Palabra" 📝**  
+   - Actividad: **completar palabras o frases** escribiendo la letra correcta donde corresponde.
+   - Música arcade suave.
+   - Retroalimentación en pantalla mostrando si se ha completado bien y la opción correcta en caso de error.
+
+3. **Nivel 3: "Selecciona la Correcta" 🎯**  
+   - Actividad: **seleccionar la única opción correcta** entre varias palabras similares.
+   - Música retro desafiante.
+   - Retroalimentación visual y sonora según la respuesta elegida.
+
+---
+
+### ❤️ Sistema de Vidas
+
+- El jugador inicia cada nivel con **3 vidas**.
+- Cada error resta una vida.
+- Al perder todas las vidas, se reinicia el nivel.
+- Contador de vidas visible en pantalla.
+
+---
+
+### 🔊 Música y Sonidos
+
+- Botón de **Muteo/Desmuteo** disponible en la esquina superior derecha.
+- Permite activar o desactivar la música de fondo.
+- Efectos de sonido de retroalimentación permanecen activos para aciertos y errores.
+
+---
 
 -------------  
 
