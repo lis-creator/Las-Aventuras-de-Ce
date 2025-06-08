@@ -81,8 +81,7 @@ El juego cuenta con **3 niveles**, cada uno con una mecánica distinta:
 
 ## 📱 Plataformas Disponibles
 
-- 📱 **Android**
-  
+- 📱 **Android**  
 - 💻 **Windows**
   ------------
   
